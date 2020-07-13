@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TOCSpr20_Assignment4_Part_B_MuhammadWaleed_052",
+"productVersion": "0.1",
+"dataUrl": "A4bGithub.data.unityweb",
+"wasmCodeUrl": "A4bGithub.wasm.code.unityweb",
+"wasmFrameworkUrl": "A4bGithub.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
